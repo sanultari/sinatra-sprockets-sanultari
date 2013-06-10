@@ -14,11 +14,11 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "sinatra-sprockets"
+  gem.name = "sinatra-sprockets-sanultari"
   gem.homepage = "http://github.com/astral1/sinatra-sprockets"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{sinatra - sprocket integration}
+  gem.description = %Q{read README.md for details}
   gem.email = "ethernuiel@sanultari.com"
   gem.authors = ["Jeong, Jiung"]
   # dependencies defined in Gemfile
